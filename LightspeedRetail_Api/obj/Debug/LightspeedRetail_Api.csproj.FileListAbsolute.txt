@@ -1,0 +1,330 @@
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Users\yacca\source\repos\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Workspace\API PROJECTS\New Separated Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Workspace\API PROJECTS\Ready To Move Live Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Workspace\API PROJECTS\Live running separated dynamic projects\LightspeedRetail_Api  us_store\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+D:\MAU\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+D:\MAUALLPROJECTS\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+E:\Lightspeed Updated\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+D:\API - Projects\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+E:\C# API codes\LightspeedRetail_Api\LightspeedRetail_Api Latest\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Users\ADMIN\Downloads\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Users\Dell\Downloads\LightspeedRetail_Api Latest on 9thAug2024\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+D:\Latest Projects\API\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+D:\BottleCaps\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+D:\BottleCaps\API\LightspeedRetail_Api (2)\LightspeedRetail_Api\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe.config
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.exe
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\LightspeedRetail_Api.pdb
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Buffers.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Memory.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Numerics.Vectors.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Text.Encodings.Web.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Text.Json.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.ValueTuple.dll
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\RestSharp.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Buffers.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Memory.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Numerics.Vectors.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.AccessControl.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Permissions.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Security.Principal.Windows.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Text.Encodings.Web.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Text.Json.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.ValueTuple.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
