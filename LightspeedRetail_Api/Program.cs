@@ -21,7 +21,7 @@ namespace LightspeedRetail_Api
                 {
                     try
                     {
-                        if (posDetail.PosName.ToUpper() == "LIGHTSPEED")// && posDetail.StoreSettings.StoreId == 12724
+                        if (posDetail.PosName.ToUpper() == "LIGHTSPEED" && posDetail.StoreSettings.StoreId == 12724)
                         {
 
                             if (posDetail.StoreSettings.StoreId == 10716 || posDetail.StoreSettings.StoreId == 10717 || posDetail.StoreSettings.StoreId == 11267)

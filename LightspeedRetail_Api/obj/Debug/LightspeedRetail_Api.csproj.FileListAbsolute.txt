@@ -323,8 +323,8 @@ C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Te
 C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Text.Json.xml
 C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\bin\Debug\System.ValueTuple.xml
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
 C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CoreCompileInputs.cache
+C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
 C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.exe
 C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.pdb
-C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.AssemblyReference.cache
-C:\Bottlecapps\API\LightspeedRetail_Api\LightspeedRetail_Api\obj\Debug\LightspeedRetail_Api.csproj.CopyComplete
