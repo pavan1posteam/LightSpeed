@@ -21,7 +21,7 @@ namespace LightspeedRetail_Api
                 {
                     try
                     {
-                        if (posDetail.PosName.ToUpper() == "LIGHTSPEED" && posDetail.StoreSettings.StoreId == 12724  )
+                        if (posDetail.PosName.ToUpper() == "LIGHTSPEED")
                         {
 
                             if (posDetail.StoreSettings.StoreId == 10716 || posDetail.StoreSettings.StoreId == 10717 || posDetail.StoreSettings.StoreId == 11267)
@@ -50,6 +50,20 @@ namespace LightspeedRetail_Api
                                     lightspeedX.RunAsync().GetAwaiter().GetResult();
                                     Console.WriteLine();
                                 }
+                                else if (posDetail.StoreSettings.StoreId == 12097)// As per ticket #47897
+                                {
+                                    int[] hour = { 0, 4, 8, 12, 16, 20, 24};
+                                    int currentHour = DateTime.UtcNow.Hour;
+                                    for(int i = 0; i < hour.Length; i++)
+                                    {
+                                        if(hour[i] == currentHour)
+                                        {
+                                            clsLightspeedAPI_X lightspeedAPI_X = new clsLightspeedAPI_X(posDetail.StoreSettings.StoreId, posDetail.StoreSettings.POSSettings.tax, posDetail.StoreSettings.POSSettings.BaseUrl, posDetail.StoreSettings.POSSettings.APIKey);
+                                            lightspeedAPI_X.RunAsync().GetAwaiter().GetResult();
+                                            Console.WriteLine();
+                                        }
+                                    }
+                                }
                                 else if (lightspeedAPIkey.Contains(posDetail.StoreSettings.StoreId.ToString()))  // X Series  // this is only for the stores 12160 , 12233
                                 {
                                     clsLightspeedAPI_X lightspeedAPI_X = new clsLightspeedAPI_X(posDetail.StoreSettings.StoreId, posDetail.StoreSettings.POSSettings.tax, posDetail.StoreSettings.POSSettings.BaseUrl, posDetail.StoreSettings.POSSettings.APIKey);
@@ -66,6 +80,18 @@ namespace LightspeedRetail_Api
                                 {
                                     clsLighspeedRetailV3 clsLighspeedRetailV3 = new clsLighspeedRetailV3(posDetail.StoreSettings.StoreId, posDetail.StoreSettings.POSSettings.tax, posDetail.StoreSettings.POSSettings.BaseUrl, posDetail.StoreSettings.POSSettings.ClientId, posDetail.StoreSettings.POSSettings.ClientSecret, posDetail.StoreSettings.POSSettings.RefreshToken, posDetail.StoreSettings.POSSettings.AccountID, posDetail.StoreSettings.POSSettings.IsMarkUpPrice, posDetail.StoreSettings.POSSettings.MarkUpValue);
                                     clsLighspeedRetailV3.RunAsync().GetAwaiter().GetResult();
+                                    Console.WriteLine();
+                                }
+                                else if (!string.IsNullOrEmpty(posDetail.StoreSettings.POSSettings.APIKey))
+                                {
+                                    clsLightspeedAPI_X lightspeedAPI_X = new clsLightspeedAPI_X(posDetail.StoreSettings.StoreId, posDetail.StoreSettings.POSSettings.tax, posDetail.StoreSettings.POSSettings.BaseUrl, posDetail.StoreSettings.POSSettings.APIKey);
+                                    lightspeedAPI_X.RunAsync().GetAwaiter().GetResult();
+                                    Console.WriteLine();
+                                }
+                                else if (!string.IsNullOrEmpty(posDetail.Refresh_token))
+                                {
+                                    clsLightSpeedRSeries rSeries = new clsLightSpeedRSeries(posDetail.StoreSettings.StoreId, posDetail.StoreSettings.POSSettings.tax, posDetail.StoreSettings.POSSettings.BaseUrl, posDetail.StoreSettings.POSSettings.ClientId, posDetail.StoreSettings.POSSettings.ClientSecret, posDetail.StoreSettings.POSSettings.AccountID, posDetail.Refresh_token);
+                                    rSeries.RunAsync().GetAwaiter().GetResult();
                                     Console.WriteLine();
                                 }
                                 else// remaining all stores
